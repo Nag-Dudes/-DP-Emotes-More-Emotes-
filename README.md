@@ -1,4 +1,4 @@
-# -DP-Emotes-More-Emotes-
+# More-DP-Emotes
 This is a simple addition to the [dpemotes](https://forum.cfx.re/t/dpemotes-1-7-390-emotes-walkingstyles-keybinding-dances-expressions-and-shared-emotes/843105) script including prop emotes only. There is a total of 9 additions which you may not want them all, so I listed the code individually to be inserted manually. However, you can also download the **AnimationList.lua** file and replace it with your file.
 
 **Additions:**

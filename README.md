@@ -112,4 +112,4 @@ Open [dpemotes-master]
 
 * If there are any issues with the emotes above I am willing to support these additions and fix any bugs that are encountered
 * If you are requesting an emote (prop only) I can try my best to implement them, however, I am not capable of everything, but I'm willing to try.
-* Join my discord here **Insert Discord**
+* Join my discord here [Discord](https://invite.gg/dischat)

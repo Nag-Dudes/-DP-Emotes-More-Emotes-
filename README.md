@@ -92,10 +92,6 @@ This is a simple addition to the [dpemotes](https://forum.cfx.re/t/dpemotes-1-7-
    }},
 ```
 
-**Download:**
-
-**Insert Download**
-
 **Installation:**
 
 Open [dpemotes-master]

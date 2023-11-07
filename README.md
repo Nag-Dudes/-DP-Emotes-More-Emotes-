@@ -96,13 +96,13 @@ This is a simple addition to the [dpemotes](https://forum.cfx.re/t/dpemotes-1-7-
 
 Open [dpemotes-master]
            ↳ Open [Client]
-                         ↳ Open [AnimationList.lua]
-                                       ↳ Go to line **1652** DP.PropEmotes = {
-                                                            ↳ Copy Paste Desired Emotes
+                         ↳ Replace **AnimationList.lua** with one from the **Download**
 **OR**
 Open [dpemotes-master]
            ↳ Open [Client]
-                         ↳ Replace **AnimationList.lua** with one from the **Download**
+                         ↳ Open [AnimationList.lua]
+                                       ↳ Go to line **1652** DP.PropEmotes = {
+                                                            ↳ Copy Paste Desired Emotes
 
 **Notes:**
 
